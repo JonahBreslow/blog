@@ -12,13 +12,13 @@ disqusShortname = "yourdiscussshortname"
 style = "github-dark"
 
 [params]
-  author = "John Doe"
-  info = "Full Stack DevOps and Magician"
-  description = "John Doe's personal website"
-  keywords = "blog,developer,personal"
-  #gravatar = "john.doe@example.com"
+  author = "Jonah Breslow"
+  info = "Machine Learning Engineer and Data Scientist"
+  description = "Jonah Breslow's personal website"
+  keywords = "blog,developer,personal,machine learning,data"
+  gravatar = "jonahbreslow@gmail.com"
 
-  since = 2019
+  since = 2023
 
   enableTwemoji = true
 
@@ -40,17 +40,12 @@ style = "github-dark"
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/johndoe/"
-[[params.social]]
-  name = "Gitlab"
-  icon = "fa fa-gitlab fa-2x"
-  weight = 2
-  url = "https://gitlab.com/johndoe/"
+  url = "https://github.com/JonahBreslow/"
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
   weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "https://twitter.com/thebook0fjonah/"
 
 # Menu links
 [[menu.main]]
