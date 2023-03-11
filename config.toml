@@ -6,7 +6,7 @@ theme = "hugo-coder"
 
 paginate = 20
 
-disqusShortname = "yourdiscussshortname"
+# disqusShortname = 'yourDisqusShortname'
 
 [markup.highlight]
 style = "github-dark"
@@ -16,11 +16,12 @@ style = "github-dark"
   info = "Machine Learning Engineer and Data Scientist"
   description = "Jonah Breslow's personal website"
   keywords = "blog,developer,personal,machine learning,data"
+  # avatarurl = "images/avatar.jpg"
   gravatar = "jonahbreslow@gmail.com"
 
   since = 2023
 
-  enableTwemoji = true
+  # enableTwemoji = true
 
   colorScheme = "auto"
   hidecolorschemetoggle = false
