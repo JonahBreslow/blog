@@ -6,4 +6,4 @@ This repo is the dev repo for my Hugo site. When you want to publish to github p
 make build MSG="commit message"
 ```
 
-Then navigate to [my website](jonahbreslow.github.io).
+Then navigate to [my website](https://jonahbreslow.github.io).
