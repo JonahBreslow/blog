@@ -4,7 +4,7 @@
 	branch = main
 [submodule "public"]
 	path = public
-	url = git@github.com:JonahBreslow/jonahbreslow.github.io
+	url = git@github.com:JonahBreslow/jonahbreslow.github.io.git
 	branch = main
 [submodule "themes/hugo-coder"]
 	path = themes/hugo-coder

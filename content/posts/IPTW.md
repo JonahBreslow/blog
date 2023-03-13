@@ -7,6 +7,7 @@ authors = ["Jonah Breslow"]
 tags = ["Causal Inference", "IPTW", "Statistics"]
 categories = []
 series = ["Medium"]
+layout = "posts"
 +++
 
 #### An Intuitive Explanation of IPTW and a Comparison to Multivariate Regression

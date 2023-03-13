@@ -26,7 +26,7 @@ style = "github-dark"
   colorScheme = "auto"
   hidecolorschemetoggle = false
 
-  # customCSS = ["css/custom.css"]
+  # customCSS = ["css/style.css"]
   # customSCSS = ["scss/custom.scss"]
   # customJS = ["js/custom.js"]
 
@@ -57,3 +57,7 @@ style = "github-dark"
   name = "About"
   weight = 2
   url = "about/"
+[[menu.main]]
+  name = "Contact"
+  weight = 3
+  url = "contact/"
